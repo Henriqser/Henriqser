@@ -1,18 +1,20 @@
 <h1 align="center">Olá,eu sou o Henrique</h1>
 <h3 align="center">Sou um analista de dados apaixonado, trabalhando com Power BI, Python e PostgreSQL.</h3>
 
-- 💼 Trabalho **🔭 Atualmente, estou trabalhando na automação de fluxos de trabalho com Power BI, Python e PGAdmin.**
 
-- 🌱 Aprendizado **📚 Atualmente, estou aprendendo SQL avançado e técnicas de engenharia de dados.**
 
-- 🤝 Colaboração **👯 Estou buscando colaborar em projetos de visualização de dados e automação.**
+- 💼 Trabalho: Atualmente, estou trabalhando na automação de fluxos de trabalho com Power BI, Python e PGAdmin.
 
-- 💬 Pergunte-me sobre **🔹 Power BI, Python, PostgreSQL e automação de fluxos de trabalho.**
+- 🌱 Aprendizado: Atualmente, estou aprendendo SQL avançado e técnicas de engenharia de dados.
 
-- 📫 Como me encontrar **🔗LinkedIn: https://www.linkedin.com/in/henrique-silva-de-souza/**
+- 🤝 Colaboração: Estou buscando colaborar em projetos de visualização de dados e automação.
 
-- ⚡ Curiosidade **Automatizo tarefas por diversão e aprendizado! 😄**
+- 💬 Pergunte-me sobre: Power BI, Python, PostgreSQL e automação de fluxos de trabalho.
 
+- 📫 Como me encontrar: LinkedIn: https://www.linkedin.com/in/henrique-silva-de-souza/
+
+- ⚡ Curiosidade: Automatizo tarefas por diversão e aprendizado! 😄
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/henrique-silva-de-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique-silva-de-souza" height="30" width="40" /></a>
