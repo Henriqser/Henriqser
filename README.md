@@ -1,24 +1,59 @@
-<h1 align="center">Olá,eu sou o Henrique</h1>
-<h3 align="center">Sou um analista de dados apaixonado, trabalhando com Power BI, Python e PostgreSQL.</h3>
+<h1 align="center">Olá, eu sou o Henrique 👋</h1>
+<h3 align="center">Data Engineer | AWS | Apache Airflow | Kubernetes | Python</h3>
 
+Sou um **Engenheiro de Dados** apaixonado por construir pipelines escaláveis e arquiteturas de dados robustas que transformam grandes volumes de informações em valor real para o negócio.
 
+## 💼 Experiência Profissional
 
-- 💼 Trabalho: Atualmente, estou trabalhando na automação de fluxos de trabalho com Power BI, Python e PGAdmin.
+Com mais de 3 anos na área, tenho experiência em:
 
-- 🌱 Aprendizado: Atualmente, estou aprendendo SQL avançado e técnicas de engenharia de dados.
+- **Pipelines End-to-End**: Design e implementação de ETL/ELT em ambientes de alta volumetria
+- **Cloud AWS**: S3, Glue, Athena, Lambda, ECS, EKS, DMS, ECR
+- **Orquestração**: Apache Airflow, Airbyte, DBT
+- **Infraestrutura**: Kubernetes, Docker, Terraform
+- **Processamento Distribuído**: Apache Spark para transformações em larga escala
+- **Dados**: PostgreSQL, SQL Server, Data Lakes, Data Warehouses, modelagem dimensional
+- **Analytics**: Power BI, dashboards e storytelling de dados
 
-- 🤝 Colaboração: Estou buscando colaborar em projetos de visualização de dados e automação.
+## 🚀 O que faço
 
-- 💬 Pergunte-me sobre: Power BI, Python, PostgreSQL e automação de fluxos de trabalho.
+Trabalho na **otimização e modernização de arquiteturas de dados**, migrando sistemas legados para cloud, implementando Data Lakes escaláveis e automatizando processos críticos. Tenho experiência em ambientes complexos com múltiplas fontes de dados e volumes massivos de informação.
 
-- 📫 Como me encontrar: LinkedIn: https://www.linkedin.com/in/henrique-silva-de-souza/
+Além da infraestrutura, também entrego **insights acionáveis** através de dashboards e relatórios que apoiam decisões estratégicas.
 
-- ⚡ Curiosidade: Automatizo tarefas por diversão e aprendizado! 😄
-  
-<h3 align="left">Connect with me:</h3>
+## 🌱 Aprendizado Contínuo
+
+Estou sempre explorando novas tecnologias e melhores práticas em engenharia de dados, cloud computing e arquitetura de sistemas distribuídos.
+
+## 🤝 Buscando Colaborar
+
+Estou aberto a colaborar em projetos envolvendo:
+- Arquitetura de Data Lakes
+- Automação de pipelines de dados
+- Otimização de processos ETL
+- Modernização de sistemas legados
+- Visualização de dados e analytics
+
+## 💬 Pergunte-me Sobre
+
+AWS | Apache Airflow | Kubernetes | Python | SQL | Power BI | Data Engineering | Cloud Architecture
+
+## 📫 Conecte-se Comigo
+
+<a href="https://linkedin.com/in/henrique-silva-de-souza" target="blank">LinkedIn</a> | <a href="mailto:contato.henriquesouza06@gmail.com">Email</a>
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/henrique-silva-de-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique-silva-de-souza" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/96/000000/kubernetes.png" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+⚡ **Fun fact**: Gosto de automatizar tudo - desde pipelines de dados complexos até tarefas do dia a dia!
